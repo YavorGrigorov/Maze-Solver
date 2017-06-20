@@ -1,0 +1,6 @@
+c:\users\win7\documents\visual studio 2017\Projects\War\War\bin\Debug\War.exe.config
+c:\users\win7\documents\visual studio 2017\Projects\War\War\bin\Debug\War.exe
+c:\users\win7\documents\visual studio 2017\Projects\War\War\bin\Debug\War.pdb
+c:\users\win7\documents\visual studio 2017\Projects\War\War\obj\Debug\War.csprojResolveAssemblyReference.cache
+c:\users\win7\documents\visual studio 2017\Projects\War\War\obj\Debug\War.exe
+c:\users\win7\documents\visual studio 2017\Projects\War\War\obj\Debug\War.pdb
